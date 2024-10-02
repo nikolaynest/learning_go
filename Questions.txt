@@ -1,0 +1,4 @@
+1. How "package" works, as we need to add "package" name,
+but it doesn't have to be a folder with this name.
+
+2. What is go module? It can be a link to gihtub?
