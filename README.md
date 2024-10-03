@@ -26,3 +26,10 @@ It creates file with module name: "learning_go"
 To run executable file: 
 # ./learning_go
 Now can we share our application with other, without installing Go on clients side.
+
+# To run go file: 
+go run investment_calculator.go
+
+# To run go module (it should have go.mod file) 
+go run .
+
